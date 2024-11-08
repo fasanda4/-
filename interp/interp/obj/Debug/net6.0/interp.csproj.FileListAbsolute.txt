@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\interp\interp\bin\Debug\net6.0\interp.exe
+C:\Users\user\source\repos\interp\interp\bin\Debug\net6.0\interp.deps.json
+C:\Users\user\source\repos\interp\interp\bin\Debug\net6.0\interp.runtimeconfig.json
+C:\Users\user\source\repos\interp\interp\bin\Debug\net6.0\interp.dll
+C:\Users\user\source\repos\interp\interp\bin\Debug\net6.0\interp.pdb
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.AssemblyInfo.cs
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.dll
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\refint\interp.dll
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.pdb
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\interp.genruntimeconfig.cache
+C:\Users\user\source\repos\interp\interp\obj\Debug\net6.0\ref\interp.dll
