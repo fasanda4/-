@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="zFjsaIw8Y_yn9yBvJgDQ">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2rpN1lzirTSHr6iruVCN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rpN1lzirTSHr6iruVCN-1" target="2rpN1lzirTSHr6iruVCN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="20" width="279" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rpN1lzirTSHr6iruVCN-2" target="2rpN1lzirTSHr6iruVCN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;string text = &quot;Ок$зался, выс?хшее, ш$гали, &quot; +&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&quot;покр$снели, ск?льзить, ц$рит, вып$дает&quot;;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="261" y="170" width="305" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rpN1lzirTSHr6iruVCN-4" target="2rpN1lzirTSHr6iruVCN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-4" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;text = text.Replace(&#39;$&#39;, &#39;а&#39;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .Replace(&#39;?&#39;, &#39;о&#39;);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="280" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2rpN1lzirTSHr6iruVCN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="450" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Console.WriteLine(text);&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Times New Roman;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="390" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-8" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="500" width="279" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-10" value="1." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-11" value="2." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-12" value="3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-13" value="4." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rpN1lzirTSHr6iruVCN-14" value="5." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
