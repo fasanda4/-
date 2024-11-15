@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\conct1\conct1\bin\Debug\conct1.exe
+C:\Users\user\source\repos\conct1\conct1\bin\Debug\conct1.pdb
+C:\Users\user\source\repos\conct1\conct1\obj\Debug\conct1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\conct1\conct1\obj\Debug\conct1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\conct1\conct1\obj\Debug\conct1.exe
+C:\Users\user\source\repos\conct1\conct1\obj\Debug\conct1.pdb
