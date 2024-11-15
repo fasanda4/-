@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\parametr1\parametr1\bin\Debug\parametr1.exe
+C:\Users\user\source\repos\parametr1\parametr1\bin\Debug\parametr1.pdb
+C:\Users\user\source\repos\parametr1\parametr1\obj\Debug\parametr1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\parametr1\parametr1\obj\Debug\parametr1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\parametr1\parametr1\obj\Debug\parametr1.exe
+C:\Users\user\source\repos\parametr1\parametr1\obj\Debug\parametr1.pdb
