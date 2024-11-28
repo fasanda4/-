@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\strok1\strok1\bin\Debug\strok1.exe
-C:\Users\user\source\repos\strok1\strok1\bin\Debug\strok1.pdb
-C:\Users\user\source\repos\strok1\strok1\obj\Debug\strok1.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\strok1\strok1\obj\Debug\strok1.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\strok1\strok1\obj\Debug\strok1.exe
-C:\Users\user\source\repos\strok1\strok1\obj\Debug\strok1.pdb

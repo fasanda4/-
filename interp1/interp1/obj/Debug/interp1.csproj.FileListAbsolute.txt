@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\interp1\interp1\bin\Debug\interp1.exe
-C:\Users\user\source\repos\interp1\interp1\bin\Debug\interp1.pdb
-C:\Users\user\source\repos\interp1\interp1\obj\Debug\interp1.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\interp1\interp1\obj\Debug\interp1.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\interp1\interp1\obj\Debug\interp1.exe
-C:\Users\user\source\repos\interp1\interp1\obj\Debug\interp1.pdb
