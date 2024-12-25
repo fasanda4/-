@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\zad_4\zad_4\bin\Debug\zad_4.exe
-C:\Users\user\source\repos\zad_4\zad_4\bin\Debug\zad_4.pdb
-C:\Users\user\source\repos\zad_4\zad_4\obj\Debug\zad_4.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\zad_4\zad_4\obj\Debug\zad_4.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\zad_4\zad_4\obj\Debug\zad_4.exe
-C:\Users\user\source\repos\zad_4\zad_4\obj\Debug\zad_4.pdb
