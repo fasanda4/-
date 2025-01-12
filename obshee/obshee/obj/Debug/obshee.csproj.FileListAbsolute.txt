@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\obshee\obshee\obj\Debug\obshee.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\obshee\obshee\obj\Debug\obshee.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\obshee\obshee\bin\Debug\obshee.exe
-C:\Users\user\source\repos\obshee\obshee\bin\Debug\obshee.pdb
-C:\Users\user\source\repos\obshee\obshee\obj\Debug\obshee.exe
-C:\Users\user\source\repos\obshee\obshee\obj\Debug\obshee.pdb

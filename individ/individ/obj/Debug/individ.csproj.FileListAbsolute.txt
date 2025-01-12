@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\individ\individ\bin\Debug\individ.exe
-C:\Users\user\source\repos\individ\individ\bin\Debug\individ.pdb
-C:\Users\user\source\repos\individ\individ\obj\Debug\individ.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\individ\individ\obj\Debug\individ.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\individ\individ\obj\Debug\individ.exe
-C:\Users\user\source\repos\individ\individ\obj\Debug\individ.pdb
